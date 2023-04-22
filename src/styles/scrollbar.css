@@ -1,0 +1,13 @@
+.modview-scrollbar::-webkit-scrollbar {
+	width: 8px;
+}
+
+.modview-scrollbar::-webkit-scrollbar-thumb {
+	background: #565656;
+	border-radius: 6px;
+}
+
+.modview-scrollbar::-webkit-scrollbar-track {
+	background: #212121;
+	border-radius: 6px;
+}
